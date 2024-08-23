@@ -1,6 +1,7 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Uma das características do contexto que rege a sociedade atual é a constante busca por conhecimento, seja por pura curiosidade sobre determinado tema, ou mesmo para construção de uma carreira profissional, entre outros fins. Contraste a isso, uma parcela significativa da sociedade acaba esbarrando com dificuldades em acessar os diferentes meios de aprendizagem existentes, seja por falta de informações, situação financeira, etc. Buscar formas de sobrepor uma solução viável a esses problemas é crucial para uma inserção exitosa em qualquer caminho desejado.
+Segundo a coordenadora pedagógica Sarah Larissa Magrini, a sociedade atual precisa de uma visão mais ampla e criativa em relação ao método de ensino, “Inovação é tudo que é inédito, que é novo e que, de algum modo, promove melhoria, qualidade, benefício e utilidade". Extendendo para além dos muros do ensino regular, é vital que sejam explorados novos meios de ensino, caracterizados pela intuitividade e independência, além é claro da eficiência e inclusão.
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
