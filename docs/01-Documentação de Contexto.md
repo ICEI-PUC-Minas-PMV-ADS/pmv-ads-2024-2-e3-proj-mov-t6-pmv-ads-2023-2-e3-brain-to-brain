@@ -5,16 +5,17 @@ Uma das características do contexto que rege a sociedade atual é a constante b
 Segundo a coordenadora pedagógica Sarah Larissa Magrini, a sociedade atual precisa de uma visão mais ampla e criativa em relação ao método de ensino, “Inovação é tudo que é inédito, que é novo e que, de algum modo, promove melhoria, qualidade, benefício e utilidade". Estendendo para além dos muros do ensino regular, é vital que sejam explorados novos meios de ensino, caracterizados pela intuitividade e independência, além é claro da eficiência e inclusão.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+A desigualdade no acesso ao conhecimento é um problema sério que afeta nossa sociedade. Muitas pessoas, por conta de fatores como condição socioeconômica, localização e barreiras culturais, acabam sem acesso a uma educação de qualidade. Isso cria uma disparidade, onde algumas pessoas têm muitas oportunidades de aprender e crescer, enquanto outras ficam para trás. A UNESCO estima que cerca de 258 milhões de crianças e jovens em todo o mundo não estão frequentando a escola, o que ilustra bem essa realidade.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Mesmo com toda a tecnologia disponível hoje em dia, aprender ainda pode ser uma experiência solitária. Muitas pessoas têm conhecimentos valiosos, mas falta um espaço para compartilhar ou trocar ideias com outras pessoas que têm interesses parecidos. Isso não só limita o crescimento pessoal como também freia a inovação e o desenvolvimento em geral.
+
+Outro problema grave é a falta de atualização nas habilidades exigidas pelo mercado de trabalho, que está sempre mudando. Quem não consegue acompanhar essas mudanças acaba ficando desempregado ou subempregado. A Organização Internacional do Trabalho (OIT) aponta que cerca de 15% dos trabalhadores em países desenvolvidos estão em subemprego, muitas vezes por não terem as habilidades necessárias.
+
+Além disso, o alto custo da educação formal e a falta de flexibilidade nos currículos dificultam muito para quem quer aprender algo novo ou mudar de carreira. E mesmo quem aprende de forma autodidata ou na prática muitas vezes não tem esse conhecimento devidamente reconhecido, o que é mais um obstáculo na hora de buscar oportunidades.
+
+Por fim, há também o desperdício de talentos e a falta de conexão entre o que se aprende na teoria e o que se faz na prática. Conhecimentos e habilidades que poderiam fazer uma grande diferença acabam não sendo compartilhados ou aproveitados, o que atrasa o progresso de todos.
 
 ## Objetivos
 
