@@ -19,31 +19,22 @@ Por fim, há também o desperdício de talentos e a falta de conexão entre o qu
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Desenvolver um aplicativo mobile que permita aos usuários compartilhar e adquirir conhecimento de forma acessível e colaborativa, promovendo a troca de saberes entre pessoas com interesses comuns e facilitando o acesso à educação de qualidade.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A justificativa para o desenvolvimento desta aplicação é a necessidade de democratizar o acesso ao conhecimento em uma sociedade onde a desigualdade educacional ainda é significativa. Muitas pessoas enfrentam barreiras econômicas, geográficas ou sociais para acessar oportunidades de aprendizado, o que limita seu desenvolvimento pessoal e profissional. A aplicação oferece uma solução inovadora ao facilitar a troca de conhecimentos entre usuários de forma acessível e colaborativa, promovendo a inclusão educacional e permitindo que todos possam contribuir e se beneficiar, ajudando a construir uma sociedade mais capacitada e conectada.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Estudantes: Pessoas que estão em fase de formação acadêmica e buscam complementar seu aprendizado formal com conhecimentos práticos ou específicos em determinadas áreas.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Profissionais em Desenvolvimento ou Transição de Carreira: Indivíduos que desejam atualizar ou adquirir novas habilidades para se manterem competitivos no mercado de trabalho ou que estão em processo de mudança de carreira.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Autodidatas: Pessoas interessadas em aprender por conta própria, fora dos métodos tradicionais de ensino, e que valorizam a troca direta de conhecimentos com outras pessoas.
+
+Educadores e Especialistas: Profissionais com conhecimento especializado que desejam compartilhar suas habilidades e contribuir para a educação de outros, ao mesmo tempo que buscam aprender novos conteúdos de interesse.
+
+Comunidades e Grupos de Aprendizado: Grupos ou comunidades que têm interesses específicos em determinadas áreas de conhecimento e que desejam formar redes colaborativas para o compartilhamento de saberes.
+
+
