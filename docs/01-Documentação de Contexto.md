@@ -11,7 +11,7 @@ OBSERVAÇÃO
 ## Problema
 
 
-A desigualdade no acesso ao conhecimento é um problema sério que afeta nossa sociedade. Muitas pessoas, por conta de fatores como condição socioeconômica, localização e barreiras culturais, acabam sem acesso a uma educação de qualidade. Isso cria uma disparidade, onde algumas pessoas têm muitas oportunidades de aprender e crescer, enquanto outras ficam para trás. A UNESCO estima que cerca de 258 milhões de crianças e jovens em todo o mundo não estão frequentando a escola, o que ilustra bem essa realidade.
+A desigualdade no acesso ao conhecimento é um problema sério que afeta nossa sociedade. Muitas pessoas, por conta de fatores como condição socioeconômica, localização e barreiras culturais, acabam sem acesso a uma educação de qualidade. Isso cria uma disparidade, onde algumas pessoas têm muitas oportunidades de aprender e crescer, enquanto outras ficam para trás. A UNESCO (***ANO***) estima que cerca de 258 milhões de crianças e jovens em todo o mundo não estão frequentando a escola, o que ilustra bem essa realidade.
 
 Mesmo com toda a tecnologia disponível hoje em dia, aprender ainda pode ser uma experiência solitária. Muitas pessoas têm conhecimentos valiosos, mas falta um espaço para compartilhar ou trocar ideias com outras pessoas que têm interesses parecidos. Isso não só limita o crescimento pessoal como também freia a inovação e o desenvolvimento em geral.
 
