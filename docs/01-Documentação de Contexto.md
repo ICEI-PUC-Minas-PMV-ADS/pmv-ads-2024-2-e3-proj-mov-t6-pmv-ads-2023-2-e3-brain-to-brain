@@ -2,7 +2,7 @@
 
 Uma das características do contexto que rege a sociedade atual é a constante busca por conhecimento, seja por pura curiosidade sobre determinado tema, ou mesmo para construção de uma carreira profissional, entre outros fins. Contraste a isso, uma parcela significativa da sociedade acaba esbarrando com dificuldades em acessar os diferentes meios de aprendizagem existentes, seja por falta de informações, situação financeira, etc. Buscar formas de sobrepor uma solução viável a esses problemas é crucial para uma inserção exitosa em qualquer caminho desejado.
 
-Segundo a coordenadora pedagógica **Sarah Larissa Magrini (ANO)**, a sociedade atual precisa de uma visão mais ampla e criativa em relação ao método de ensino, “Inovação é tudo que é inédito, que é novo e que, de algum modo, promove melhoria, qualidade, benefício e utilidade". Estendendo para além dos muros do ensino regular, é vital que sejam explorados novos meios de ensino, caracterizados pela intuitividade e independência, além é claro da eficiência e inclusão.
+Segundo a coordenadora pedagógica Sarah Larissa Magrini (2023), a sociedade atual precisa de uma visão mais ampla e criativa em relação ao método de ensino, “Inovação é tudo que é inédito, que é novo e que, de algum modo, promove melhoria, qualidade, benefício e utilidade". Estendendo para além dos muros do ensino regular, é vital que sejam explorados novos meios de ensino, caracterizados pela intuitividade e independência, além é claro da eficiência e inclusão.
 
 
 ## Problema
