@@ -4,6 +4,10 @@ Uma das características do contexto que rege a sociedade atual é a constante b
 
 Segundo a coordenadora pedagógica Sarah Larissa Magrini, a sociedade atual precisa de uma visão mais ampla e criativa em relação ao método de ensino, “Inovação é tudo que é inédito, que é novo e que, de algum modo, promove melhoria, qualidade, benefício e utilidade". Estendendo para além dos muros do ensino regular, é vital que sejam explorados novos meios de ensino, caracterizados pela intuitividade e independência, além é claro da eficiência e inclusão.
 
+OBSERVAÇÃO
+
+> Segundo a Magrini (2024), a sociedade atual precisa de uma visão mais ampla e criativa em relação ao método de ensino, “Inovação é tudo que é inédito, que é novo e que, de algum modo, promove melhoria, qualidade, benefício e utilidade". Estendendo para além dos muros do ensino regular, é vital que sejam explorados novos meios de ensino, caracterizados pela intuitividade e independência, além é claro da eficiência e inclusão.
+
 ## Problema
 
 
