@@ -24,6 +24,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
+|Eu como... Gabriel, um policial militar dedicado.  | Quero/preciso... uma funcionalidade que me permita compartilhar e aprender sobre técnicas de segurança e investigação com outras pessoas.|Para... aumentar minha rede de conhecimentos práticos e teóricos na área de segurança, além de explorar meu interesse pessoal em música, trocando experiências sobre violão com outros usuários.               |
+|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
