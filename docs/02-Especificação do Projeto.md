@@ -11,11 +11,11 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 | Persona | Sexo | Gênero | Idade | Estado cívil | Tem filhos? | Profissão | Renda | Escolaridade | Residente | Hobbies |
 |---------|------|--------|-------|--------------|-------------|-----------|-------|--------------|-----------|---------|
 |Gabriel|Masculino|Cisgênero|35 anos|Casado|Sim|Policial militar|<= 3 mil|Graduação|Vitória da Conquista - BA|Jogar boliche, tocar violão e assistir filmes de CSI|
-|Julia|Feminino|Cisgênero|17 anos|Solteiro|Não|Estudante|n/a|Ensino médio incompleto|São Caetano do Sul - SP|Assistir videos curtos de maquiagem, sair com os amigos e andar de bicicleta|
+|Julia|Feminino|Cisgênero|17 anos|Solteira|Não|Estudante|n/a|Ensino médio incompleto|São Caetano do Sul - SP|Assistir videos curtos de maquiagem, sair com os amigos e andar de bicicleta|
 |Ivo|Masculino|Não binário|45 anos|Divorciado|Não|Gerente de Marketing|<= 10 mil|Pós graduação|Cuiaba - MT|Viajar, cozinhar e ler livros de negócios|
 |Lucas|Masculino|Transgênero|26 anos|Casado|Sim|Professor de história|<= 3 mil|Mestrado|Belo Horizonte - MG|Jogar jogos de tabuleiro, estar em família e assistir corridas de carro|
 |Miguel|Masculino|Cisgênero|14 anos|Solteiro|Não|Estudante|n/a|Ensino fundamental incompleto|Rio Branco - AC|Andar de skate, tocar guitarra e fazer doces|
-|Luara|Feminino|Transgênero|28 anos|Solteiro|Sim|Analista de Sistemas|<= 6 mil|Graduação|Fortaleza - CE|Pintura, Corrida e Tocar piano|
+|Luara|Feminino|Transgênero|28 anos|Solteira|Sim|Analista de Sistemas|<= 6 mil|Graduação|Fortaleza - CE|Pintura, Corrida e Tocar piano|
 
 
 ## Histórias de Usuários
