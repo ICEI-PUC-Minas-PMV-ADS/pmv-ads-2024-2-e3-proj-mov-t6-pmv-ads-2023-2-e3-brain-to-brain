@@ -81,7 +81,6 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 | RF-006| Permitir filtragem de resultados de busca por área de conhecimento e disponibilidade | MÉDIA      |
 | RF-007| Permitir que os usuários avaliem e comentem sobre as experiências de aprendizado ou compartilhamento | MÉDIA      |
 | RF-008| Enviar notificações por e-mail ou push sobre novos pedidos de conhecimento ou contatos recebidos | MÉDIA      |
-| RF-009| Garantir a segurança e privacidade das informações pessoais dos usuários | ALTA       |
 
 ### Requisitos Não Funcionais
 
@@ -90,7 +89,7 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 | RNF-001| O sistema deve ser intuitivo e fácil de navegar, proporcionando uma boa experiência do usuário| ALTA       |
 | RNF-002| O sistema deve responder a solicitações de busca e filtro em menos de 5 segundos | ALTA       |
 | RNF-003| O sistema deve ser escalável para suportar aumento de usuários e acessos simultâneos | ALTA       |
-| RNF-004| O sistema deve implementar criptografia de dados| ALTA       |
+| RNF-004| O sistema deve implementar criptografia de dados, garantindo segurança e privacidade dos usuários| ALTA       |
 | RNF-005| O sistema deve ser desenvolvido de forma modular, permitindo fácil manutenção e atualização | MÉDIA      |
 | RNF-006| 	A aplicação deve ser compatível com os principais sistemas operacionais do mercado. | ALTA      |
 
