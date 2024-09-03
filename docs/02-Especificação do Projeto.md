@@ -8,7 +8,8 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-|Persona|Sexo|Gênero|Idade|Estado cívil|Tem filhos?|Profissão|Renda|Escolaridade|Residente|Hobbies|
+| Persona | Sexo | Gênero | Idade | Estado cívil | Tem filhos? | Profissão | Renda | Escolaridade | Residente | Hobbies |
+|---------|------|--------|-------|--------------|-------------|-----------|-------|--------------|-----------|---------|
 |Gabriel|Masculino|Cisgênero|35 anos|Casado|Sim|Policial militar|<= 3 mil|Graduação|Vitória da Conquista - BA|Jogar boliche, tocar violão e assistir filmes de CSI|
 |Julia|Feminino|Cisgênero|17 anos|Solteiro|Não|Estudante|n/a|Ensino médio incompleto|São Caetano do Sul - SP|Assistir videos curtos de maquiagem, sair com os amigos e andar de bicicleta|
 |Ivo|Masculino|Não binário|45 anos|Divorciado|Não|Gerente de Marketing|<= 10 mil|Pós graduação|Cuiaba - MT|Viajar, cozinhar e ler livros de negócios|
