@@ -12,7 +12,7 @@ A desigualdade no acesso ao conhecimento é um problema sério que afeta nossa s
 
 Mesmo com toda a tecnologia disponível hoje em dia, aprender ainda pode ser uma experiência solitária. Muitas pessoas têm conhecimentos valiosos, mas falta um espaço para compartilhar ou trocar ideias com outras pessoas que têm interesses parecidos. Isso não só limita o crescimento pessoal como também freia a inovação e o desenvolvimento em geral.
 
-Outro problema grave é a falta de atualização nas habilidades exigidas pelo mercado de trabalho, que está sempre mudando. Quem não consegue acompanhar essas mudanças acaba ficando desempregado ou subempregado. A Organização Internacional do Trabalho (OIT) aponta que cerca de 15% dos trabalhadores em países desenvolvidos estão em subemprego, muitas vezes por não terem as habilidades necessárias.
+Outro problema grave é a falta de atualização nas habilidades exigidas pelo mercado de trabalho, que está sempre mudando. Quem não consegue acompanhar essas mudanças acaba ficando desempregado ou subempregado. A Organização Internacional do Trabalho (2024) aponta que cerca de 15% dos trabalhadores em países desenvolvidos estão em subemprego, muitas vezes por não terem as habilidades necessárias.
 
 Além disso, o alto custo da educação formal e a falta de flexibilidade nos currículos dificultam muito para quem quer aprender algo novo ou mudar de carreira. E mesmo quem aprende de forma autodidata ou na prática muitas vezes não tem esse conhecimento devidamente reconhecido, o que é mais um obstáculo na hora de buscar oportunidades.
 
