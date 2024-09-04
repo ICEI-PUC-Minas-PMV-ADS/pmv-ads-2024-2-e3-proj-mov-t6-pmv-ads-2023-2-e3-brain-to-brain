@@ -17,6 +17,29 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 |Miguel|Masculino|Cisgênero|14 anos|Solteiro|Não|Estudante|n/a|Ensino fundamental incompleto|Rio Branco - AC|Andar de skate, tocar guitarra e fazer doces|
 |Luara|Feminino|Transgênero|28 anos|Solteira|Sim|Analista de Sistemas|<= 6 mil|Graduação|Fortaleza - CE|Pintura, Corrida e Tocar piano|
 
+## teste
+
+## Anna de Lucca
+
+**Idade:** 32 anos  
+**Ocupação:** Gerente de Projetos em uma empresa de tecnologia  
+**Aplicativos:** 
+- Instagram
+- LinkedIn
+- Facebook
+
+**Motivações:**  
+Busca sucesso profissional, deseja crescer na carreira e se destacar em sua área. Valorização da qualidade de vida e equilíbrio entre trabalho e vida pessoal.
+
+**Frustrações:**  
+Se frustra pela falta de reconhecimento no trabalho. Está desanimada por não conseguir conciliar efetivamente suas responsabilidades profissionais e pessoais.
+
+**Hobbies:**  
+Gosta de ler sobre desenvolvimento pessoal e liderança. Pratica ioga regularmente para manter o equilíbrio. Cresceu em uma cidade pequena e sempre teve o desejo de explorar o mundo.
+
+---
+
+
 
 ## Histórias de Usuários
 
