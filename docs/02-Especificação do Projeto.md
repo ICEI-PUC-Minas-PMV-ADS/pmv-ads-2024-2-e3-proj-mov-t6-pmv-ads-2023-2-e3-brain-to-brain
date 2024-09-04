@@ -25,12 +25,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Eu como... Gabriel, um policial militar dedicado.  | Quero/preciso... uma funcionalidade que me permita compartilhar e aprender sobre técnicas de segurança e investigação com outras pessoas.|Para... aumentar minha rede de conhecimentos práticos e teóricos na área de segurança, além de explorar meu interesse pessoal em música, trocando experiências sobre violão com outros usuários.               |
-|Eu como... Julia, uma estudante de 17 anos.  | Quero/preciso... uma funcionalidade que me permita trocar dicas de maquiagem e estilo com outras pessoas. | Para... me expressar melhor através da maquiagem e moda, além de aprender e descobrir novas tendências, enquanto também faço novas amizades com pessoas que compartilham dos mesmos interesses. |
-|Eu como... Ivo, um gerente de marketing com vasta experiência  | Quero/preciso... uma funcionalidade que me permita compartilhar conhecimentos de marketing e aprender sobre culinária e viagens.  |Para... enriquecer minhas habilidades profissionais ao ensinar e aprender, enquanto também exploro novas paixões pessoais, como cozinhar e viajar, conectando-me com pessoas que podem me ensinar algo novo. |
-|Eu como... Lucas, um professor de história e entusiasta de jogos de tabuleiro.  | Quero/preciso... uma funcionalidade que me permita trocar conhecimentos sobre história e estratégias de ensino com outros usuários.  | Para... melhorar minhas técnicas de ensino, tornando as aulas mais interativas e interessantes, enquanto também me conecto com outros apaixonados por história e jogos de tabuleiro para expandir meu repertório educacional e de entretenimento.  |
+|Eu como... Julia, uma estudante de 17 anos.  | Quero/preciso... uma funcionalidade que me permita trocar dicas de maquiagem e estilo com outras pessoas. | Para... me expressar melhor através da maquiagem e moda, além de aprender e descobrir novas tendências, enquanto faço novas amizades com pessoas que compartilham dos mesmos interesses. |
+|Eu como... Ivo, um gerente de marketing com vasta experiência  | Quero/preciso de uma funcionalidade que me permita compartilhar conhecimentos de marketing e aprender sobre culinária e viagens.  |Para... enriquecer minhas habilidades profissionais ao ensinar e aprender, enquanto exploro novas paixões pessoais, como cozinhar e viajar, conectando-me com pessoas que podem me ensinar algo novo. |
+|Eu como... Lucas, um professor de história e entusiasta de jogos de tabuleiro.  | Quero/preciso... uma funcionalidade que me permita trocar conhecimentos sobre história e estratégias de ensino com outros usuários.  | Para... melhorar minhas técnicas de ensino, tornando as aulas mais interativas e interessantes, enquanto me conecto com outros apaixonados por história e jogos de tabuleiro para expandir meu repertório educacional e de entretenimento.  |
 |Eu como... Miguel, um adolescente de 14 anos.  | Quero/preciso... uma funcionalidade que me permita aprender a tocar guitarra e compartilhar minhas experiências no skate com outros jovens.          | Para... melhorar minhas habilidades musicais e de skate, encontrar outras pessoas com os mesmos interesses, e talvez até aprender a fazer novos tipos de doces para compartilhar com a família e amigos.             |
 |Eu como... Luara, uma analista de sistemas de 28 anos.  | Quero/preciso... uma funcionalidade que me permita trocar conhecimentos sobre pintura, corrida e piano com outros usuários.  | Para... melhorar minha técnica nessas áreas e encontrar uma comunidade de pessoas com interesses semelhantes, onde posso compartilhar dicas e aprender novas habilidades que complementam meu trabalho e vida pessoal.   |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Eu como administrador da aplicação      | Quero/preciso de efetuar alteração das permissões das contas dos usuários | Para permitir que os usuários possam administrar suas contas |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
@@ -94,9 +94,10 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 | RNF-001| O sistema deve ser intuitivo e fácil de navegar, proporcionando uma boa experiência do usuário| ALTA       |
 | RNF-002| O sistema deve responder a solicitações de busca e filtro em menos de 5 segundos | ALTA       |
 | RNF-003| O sistema deve ser escalável para suportar aumento de usuários e acessos simultâneos | ALTA       |
-| RNF-004| O sistema deve implementar criptografia de dados, garantindo segurança e privacidade dos usuários| ALTA       |
-| RNF-005| O sistema deve ser desenvolvido de forma modular, permitindo fácil manutenção e atualização | MÉDIA      |
-| RNF-006| 	A aplicação deve ser compatível com os principais sistemas operacionais do mercado. | ALTA      |
+| RNF-004| 	A aplicação deve ser compatível com os principais sistemas operacionais do mercado. | ALTA      |
+
+| RNF-005| O sistema deve implementar criptografia de dados, garantindo segurança e privacidade dos usuários| MÉDIA       |
+| RNF-006| O sistema deve ser desenvolvido de forma modular, permitindo fácil manutenção e atualização | MÉDIA      |
 
 ## Restrições
 
