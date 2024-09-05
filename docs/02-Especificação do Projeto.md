@@ -23,7 +23,8 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-| <img src="img/Gabriel.png" width="100"> | **Gabriel**                              | **Idade:** 35 anos                                              |
+| <img src="![Gabriel].img/Gabriel.png
+    " width="100"> | **Gabriel**                              | **Idade:** 35 anos                                              |
 |---------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
 | **Ocupação:**                                           | Policial Militar                                                |
 | **Funcionalidade:**                                     | Uma funcionalidade que permita compartilhar e aprender sobre técnicas de segurança e investigação com outras pessoas. |
