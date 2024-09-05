@@ -23,76 +23,72 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|![Gabriel](https://github.com/user-attachments/assets/f13aedf1-afc0-46cb-81e5-d8c1e5d9f3ba)
- | **Gabriel**                              | **Idade:** 35 anos                                              |
-|---------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
-| **Ocupação:**                               | Policial Militar                                                |
-| **Funcionalidade:**                         | Uma funcionalidade que permita compartilhar e aprender sobre técnicas de segurança e investigação com outras pessoas. |
-| **Motivações:**                             | Aumentar sua rede de conhecimentos práticos e teóricos na área de segurança. |
-| **Interesses Adicionais:**                  | Música, troca de experiências sobre tocar violão.                |
-| **Frustrações:**                            | Dificuldade em encontrar uma plataforma confiável para compartilhar e aprender sobre segurança de forma interativa. |
+| <img src="caminho/para/imagem/gabriel.jpg" width="100"> | **Gabriel**                              | **Idade:** 35 anos                                              |
+|---------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
+| **Ocupação:**                                           | Policial Militar                                                |
+| **Funcionalidade:**                                     | Uma funcionalidade que permita compartilhar e aprender sobre técnicas de segurança e investigação com outras pessoas. |
+| **Motivações:**                                         | Aumentar sua rede de conhecimentos práticos e teóricos na área de segurança. |
+| **Interesses Adicionais:**                              | Música, troca de experiências sobre tocar violão.                |
+| **Frustrações:**                                        | Dificuldade em encontrar uma plataforma confiável para compartilhar e aprender sobre segurança de forma interativa. |
 
 ---
 
-| ![Julia](![Julia](https://github.com/user-attachments/assets/95b13f41-7a1d-4c51-88b9-6eee3bf9ed01)
-)     | **Julia**                                | **Idade:** 17 anos                                              |
-|---------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
-| **Ocupação:**                               | Estudante                                                       |
-| **Funcionalidade:**                         | Uma funcionalidade que permita trocar dicas de maquiagem e estilo com outras pessoas. |
-| **Motivações:**                             | Se expressar melhor através da maquiagem e moda.                |
-| **Interesses Adicionais:**                  | Descobrir novas tendências e fazer novas amizades com interesses semelhantes. |
-| **Frustrações:**                            | Falta de conexão com outras pessoas que compartilham os mesmos interesses em moda. |
+| <img src="caminho/para/imagem/julia.jpg" width="100">   | **Julia**                                | **Idade:** 17 anos                                              |
+|---------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
+| **Ocupação:**                                           | Estudante                                                       |
+| **Funcionalidade:**                                     | Uma funcionalidade que permita trocar dicas de maquiagem e estilo com outras pessoas. |
+| **Motivações:**                                         | Se expressar melhor através da maquiagem e moda.                |
+| **Interesses Adicionais:**                              | Descobrir novas tendências e fazer novas amizades com interesses semelhantes. |
+| **Frustrações:**                                        | Falta de conexão com outras pessoas que compartilham os mesmos interesses em moda. |
 
 ---
 
-| ![Ivo](![Ivo](https://github.com/user-attachments/assets/1bc7aeed-fca8-4809-9b91-484880a48755)
-)         | **Ivo**                                  | **Idade:** 40 anos                                              |
-|---------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
-| **Ocupação:**                               | Gerente de Marketing                                             |
-| **Funcionalidade:**                         | Uma funcionalidade que permita compartilhar conhecimentos de marketing e aprender sobre culinária e viagens. |
-| **Motivações:**                             | Enriquecer habilidades profissionais e explorar novas paixões pessoais. |
-| **Interesses Adicionais:**                  | Conectar-se com pessoas que podem ensinar algo novo, especialmente em culinária e viagens. |
-| **Frustrações:**                            | Dificuldade em encontrar um equilíbrio entre interesses profissionais e pessoais em uma única plataforma. |
+| <img src="caminho/para/imagem/ivo.jpg" width="100">     | **Ivo**                                  | **Idade:** 40 anos                                              |
+|---------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
+| **Ocupação:**                                           | Gerente de Marketing                                             |
+| **Funcionalidade:**                                     | Uma funcionalidade que permita compartilhar conhecimentos de marketing e aprender sobre culinária e viagens. |
+| **Motivações:**                                         | Enriquecer habilidades profissionais e explorar novas paixões pessoais. |
+| **Interesses Adicionais:**                              | Conectar-se com pessoas que podem ensinar algo novo, especialmente em culinária e viagens. |
+| **Frustrações:**                                        | Dificuldade em encontrar um equilíbrio entre interesses profissionais e pessoais em uma única plataforma. |
 
 ---
 
-| ![Lucas](![Lucas](https://github.com/user-attachments/assets/c89f48bd-2dc5-4c6d-babc-8b908dfd1639)
-)     | **Lucas**                                | **Idade:** 30 anos                                              |
-|---------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
-| **Ocupação:**                               | Professor de História                                           |
-| **Funcionalidade:**                         | Uma funcionalidade que permita trocar conhecimentos sobre história e estratégias de ensino com outros usuários. |
-| **Motivações:**                             | Melhorar técnicas de ensino e tornar as aulas mais interativas e interessantes. |
-| **Interesses Adicionais:**                  | Jogos de tabuleiro, conectando-se com outros apaixonados por história e jogos. |
-| **Frustrações:**                            | Falta de ferramentas para combinar seus interesses em história e jogos com suas técnicas de ensino. |
+| <img src="caminho/para/imagem/lucas.jpg" width="100">   | **Lucas**                                | **Idade:** 30 anos                                              |
+|---------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
+| **Ocupação:**                                           | Professor de História                                           |
+| **Funcionalidade:**                                     | Uma funcionalidade que permita trocar conhecimentos sobre história e estratégias de ensino com outros usuários. |
+| **Motivações:**                                         | Melhorar técnicas de ensino e tornar as aulas mais interativas e interessantes. |
+| **Interesses Adicionais:**                              | Jogos de tabuleiro, conectando-se com outros apaixonados por história e jogos. |
+| **Frustrações:**                                        | Falta de ferramentas para combinar seus interesses em história e jogos com suas técnicas de ensino. |
 
 ---
 
-| ![Miguel](![Miguel](https://github.com/user-attachments/assets/d68ec12d-755b-48d1-b21b-886512c50047)
-)   | **Miguel**                               | **Idade:** 14 anos                                              |
-|---------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
-| **Ocupação:**                               | Estudante                                                       |
-| **Funcionalidade:**                         | Uma funcionalidade que permita aprender a tocar guitarra e compartilhar experiências no skate com outros jovens. |
-| **Motivações:**                             | Melhorar habilidades musicais e de skate, conectando-se com outros jovens. |
-| **Interesses Adicionais:**                  | Aprender a fazer novos tipos de doces para compartilhar com a família e amigos. |
-| **Frustrações:**                            | Dificuldade em encontrar uma comunidade jovem com interesses semelhantes. |
+| <img src="caminho/para/imagem/miguel.jpg" width="100">  | **Miguel**                               | **Idade:** 14 anos                                              |
+|---------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
+| **Ocupação:**                                           | Estudante                                                       |
+| **Funcionalidade:**                                     | Uma funcionalidade que permita aprender a tocar guitarra e compartilhar experiências no skate com outros jovens. |
+| **Motivações:**                                         | Melhorar habilidades musicais e de skate, conectando-se com outros jovens. |
+| **Interesses Adicionais:**                              | Aprender a fazer novos tipos de doces para compartilhar com a família e amigos. |
+| **Frustrações:**                                        | Dificuldade em encontrar uma comunidade jovem com interesses semelhantes. |
 
 ---
 
-| ![Luara](![Luara](https://github.com/user-attachments/assets/f31beaa3-464f-4540-91e6-e0a5dd9ce8bf)     | **Luara**                                | **Idade:** 28 anos                                              |
-|---------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
-| **Ocupação:**                               | Analista de Sistemas                                            |
-| **Funcionalidade:**                         | Uma funcionalidade que permita trocar conhecimentos sobre pintura, corrida e piano com outros usuários. |
-| **Motivações:**                             | Melhorar habilidades nessas áreas e encontrar uma comunidade de interesses semelhantes. |
-| **Interesses Adicionais:**                  | Integrar hobbies criativos à vida profissional e pessoal.        |
-| **Frustrações:**                            | Dificuldade em equilibrar trabalho com hobbies e encontrar uma comunidade para compartilhar dicas. |
+| <img src="caminho/para/imagem/luara.jpg" width="100">   | **Luara**                                | **Idade:** 28 anos                                              |
+|---------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
+| **Ocupação:**                                           | Analista de Sistemas                                            |
+| **Funcionalidade:**                                     | Uma funcionalidade que permita trocar conhecimentos sobre pintura, corrida e piano com outros usuários. |
+| **Motivações:**                                         | Melhorar habilidades nessas áreas e encontrar uma comunidade de interesses semelhantes. |
+| **Interesses Adicionais:**                              | Integrar hobbies criativos à vida profissional e pessoal.        |
+| **Frustrações:**                                        | Dificuldade em equilibrar trabalho com hobbies e encontrar uma comunidade para compartilhar dicas. |
 
 ---
 
-| ![Administrador](caminho/para/imagem/admin.jpg) | **Administrador da Aplicação**           |                                                                 |
-|-------------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
-| **Funcionalidade:**                             | Efetuar alteração das permissões das contas dos usuários.        |
-| **Motivações:**                                 | Permitir que os usuários administrem suas próprias contas de maneira eficiente. |
-| **Frustrações:**                                | Restrições no controle administrativo das funcionalidades dos usuários. |
+| <img src="caminho/para/imagem/admin.jpg" width="100">   | **Administrador da Aplicação**           |                                                                 |
+|---------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
+| **Funcionalidade:**                                     | Efetuar alteração das permissões das contas dos usuários.        |
+| **Motivações:**                                         | Permitir que os usuários administrem suas próprias contas de maneira eficiente. |
+| **Frustrações:**                                        | Restrições no controle administrativo das funcionalidades dos usuários. |
+
 
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
