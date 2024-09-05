@@ -78,8 +78,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ---
 
-| ![Luara](![Luara](https://github.com/user-attachments/assets/f31beaa3-464f-4540-91e6-e0a5dd9ce8bf)
-)     | **Luara**                                | **Idade:** 28 anos                                              |
+| ![Luara](![Luara](https://github.com/user-attachments/assets/f31beaa3-464f-4540-91e6-e0a5dd9ce8bf)     | **Luara**                                | **Idade:** 28 anos                                              |
 |---------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
 | **Ocupação:**                               | Analista de Sistemas                                            |
 | **Funcionalidade:**                         | Uma funcionalidade que permita trocar conhecimentos sobre pintura, corrida e piano com outros usuários. |
