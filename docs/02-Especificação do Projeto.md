@@ -23,7 +23,8 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-| ![Gabriel](caminho/para/imagem/gabriel.jpg) | **Gabriel**                              | **Idade:** 35 anos                                              |
+| ![Gabriel](![Gabriel](https://github.com/user-attachments/assets/4a0e3d14-25da-4c22-b908-028beddb465b)
+) | **Gabriel**                              | **Idade:** 35 anos                                              |
 |---------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
 | **Ocupação:**                               | Policial Militar                                                |
 | **Funcionalidade:**                         | Uma funcionalidade que permita compartilhar e aprender sobre técnicas de segurança e investigação com outras pessoas. |
@@ -33,7 +34,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ---
 
-| ![Julia](caminho/para/imagem/julia.jpg)     | **Julia**                                | **Idade:** 17 anos                                              |
+| ![Julia](![Julia](https://github.com/user-attachments/assets/95b13f41-7a1d-4c51-88b9-6eee3bf9ed01)
+)     | **Julia**                                | **Idade:** 17 anos                                              |
 |---------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
 | **Ocupação:**                               | Estudante                                                       |
 | **Funcionalidade:**                         | Uma funcionalidade que permita trocar dicas de maquiagem e estilo com outras pessoas. |
@@ -43,7 +45,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ---
 
-| ![Ivo](caminho/para/imagem/ivo.jpg)         | **Ivo**                                  | **Idade:** 40 anos                                              |
+| ![Ivo](![Ivo](https://github.com/user-attachments/assets/1bc7aeed-fca8-4809-9b91-484880a48755)
+)         | **Ivo**                                  | **Idade:** 40 anos                                              |
 |---------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
 | **Ocupação:**                               | Gerente de Marketing                                             |
 | **Funcionalidade:**                         | Uma funcionalidade que permita compartilhar conhecimentos de marketing e aprender sobre culinária e viagens. |
@@ -53,7 +56,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ---
 
-| ![Lucas](caminho/para/imagem/lucas.jpg)     | **Lucas**                                | **Idade:** 30 anos                                              |
+| ![Lucas](![Lucas](https://github.com/user-attachments/assets/c89f48bd-2dc5-4c6d-babc-8b908dfd1639)
+)     | **Lucas**                                | **Idade:** 30 anos                                              |
 |---------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
 | **Ocupação:**                               | Professor de História                                           |
 | **Funcionalidade:**                         | Uma funcionalidade que permita trocar conhecimentos sobre história e estratégias de ensino com outros usuários. |
@@ -63,7 +67,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ---
 
-| ![Miguel](caminho/para/imagem/miguel.jpg)   | **Miguel**                               | **Idade:** 14 anos                                              |
+| ![Miguel](![Miguel](https://github.com/user-attachments/assets/d68ec12d-755b-48d1-b21b-886512c50047)
+)   | **Miguel**                               | **Idade:** 14 anos                                              |
 |---------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
 | **Ocupação:**                               | Estudante                                                       |
 | **Funcionalidade:**                         | Uma funcionalidade que permita aprender a tocar guitarra e compartilhar experiências no skate com outros jovens. |
@@ -73,7 +78,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ---
 
-| ![Luara](caminho/para/imagem/luara.jpg)     | **Luara**                                | **Idade:** 28 anos                                              |
+| ![Luara](![Luara](https://github.com/user-attachments/assets/f31beaa3-464f-4540-91e6-e0a5dd9ce8bf)
+)     | **Luara**                                | **Idade:** 28 anos                                              |
 |---------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
 | **Ocupação:**                               | Analista de Sistemas                                            |
 | **Funcionalidade:**                         | Uma funcionalidade que permita trocar conhecimentos sobre pintura, corrida e piano com outros usuários. |
