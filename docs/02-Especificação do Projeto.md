@@ -23,8 +23,8 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-| ![Gabriel](![Gabriel](https://github.com/user-attachments/assets/4a0e3d14-25da-4c22-b908-028beddb465b)
-) | **Gabriel**                              | **Idade:** 35 anos                                              |
+|  <img src="![Gabriel](https://github.com/user-attachments/assets/0f4437c8-fd01-4e29-bc9c-c1428f026f92)
+" width="100">  | **Gabriel**                              | **Idade:** 35 anos                                              |
 |---------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
 | **Ocupação:**                               | Policial Militar                                                |
 | **Funcionalidade:**                         | Uma funcionalidade que permita compartilhar e aprender sobre técnicas de segurança e investigação com outras pessoas. |
