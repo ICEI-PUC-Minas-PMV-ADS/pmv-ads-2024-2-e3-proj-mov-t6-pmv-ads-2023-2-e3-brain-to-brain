@@ -23,15 +23,72 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Eu como... Gabriel, um policial militar dedicado.  | Quero/preciso... uma funcionalidade que me permita compartilhar e aprender sobre técnicas de segurança e investigação com outras pessoas.|Para... aumentar minha rede de conhecimentos práticos e teóricos na área de segurança, além de explorar meu interesse pessoal em música, trocando experiências sobre violão com outros usuários.               |
-|Eu como... Julia, uma estudante de 17 anos.  | Quero/preciso... uma funcionalidade que me permita trocar dicas de maquiagem e estilo com outras pessoas. | Para... me expressar melhor através da maquiagem e moda, além de aprender e descobrir novas tendências, enquanto faço novas amizades com pessoas que compartilham dos mesmos interesses. |
-|Eu como... Ivo, um gerente de marketing com vasta experiência  | Quero/preciso de uma funcionalidade que me permita compartilhar conhecimentos de marketing e aprender sobre culinária e viagens.  |Para... enriquecer minhas habilidades profissionais ao ensinar e aprender, enquanto exploro novas paixões pessoais, como cozinhar e viajar, conectando-me com pessoas que podem me ensinar algo novo. |
-|Eu como... Lucas, um professor de história e entusiasta de jogos de tabuleiro.  | Quero/preciso... uma funcionalidade que me permita trocar conhecimentos sobre história e estratégias de ensino com outros usuários.  | Para... melhorar minhas técnicas de ensino, tornando as aulas mais interativas e interessantes, enquanto me conecto com outros apaixonados por história e jogos de tabuleiro para expandir meu repertório educacional e de entretenimento.  |
-|Eu como... Miguel, um adolescente de 14 anos.  | Quero/preciso... uma funcionalidade que me permita aprender a tocar guitarra e compartilhar minhas experiências no skate com outros jovens.          | Para... melhorar minhas habilidades musicais e de skate, encontrar outras pessoas com os mesmos interesses, e talvez até aprender a fazer novos tipos de doces para compartilhar com a família e amigos.             |
-|Eu como... Luara, uma analista de sistemas de 28 anos.  | Quero/preciso... uma funcionalidade que me permita trocar conhecimentos sobre pintura, corrida e piano com outros usuários.  | Para... melhorar minha técnica nessas áreas e encontrar uma comunidade de pessoas com interesses semelhantes, onde posso compartilhar dicas e aprender novas habilidades que complementam meu trabalho e vida pessoal.   |
-|Eu como administrador da aplicação      | Quero/preciso de efetuar alteração das permissões das contas dos usuários | Para permitir que os usuários possam administrar suas contas |
+| ![Gabriel](caminho/para/imagem/gabriel.jpg) | **Gabriel**                              | **Idade:** 35 anos                                              |
+|---------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
+| **Ocupação:**                               | Policial Militar                                                |
+| **Funcionalidade:**                         | Uma funcionalidade que permita compartilhar e aprender sobre técnicas de segurança e investigação com outras pessoas. |
+| **Motivações:**                             | Aumentar sua rede de conhecimentos práticos e teóricos na área de segurança. |
+| **Interesses Adicionais:**                  | Música, troca de experiências sobre tocar violão.                |
+| **Frustrações:**                            | Dificuldade em encontrar uma plataforma confiável para compartilhar e aprender sobre segurança de forma interativa. |
+
+---
+
+| ![Julia](caminho/para/imagem/julia.jpg)     | **Julia**                                | **Idade:** 17 anos                                              |
+|---------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
+| **Ocupação:**                               | Estudante                                                       |
+| **Funcionalidade:**                         | Uma funcionalidade que permita trocar dicas de maquiagem e estilo com outras pessoas. |
+| **Motivações:**                             | Se expressar melhor através da maquiagem e moda.                |
+| **Interesses Adicionais:**                  | Descobrir novas tendências e fazer novas amizades com interesses semelhantes. |
+| **Frustrações:**                            | Falta de conexão com outras pessoas que compartilham os mesmos interesses em moda. |
+
+---
+
+| ![Ivo](caminho/para/imagem/ivo.jpg)         | **Ivo**                                  | **Idade:** 40 anos                                              |
+|---------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
+| **Ocupação:**                               | Gerente de Marketing                                             |
+| **Funcionalidade:**                         | Uma funcionalidade que permita compartilhar conhecimentos de marketing e aprender sobre culinária e viagens. |
+| **Motivações:**                             | Enriquecer habilidades profissionais e explorar novas paixões pessoais. |
+| **Interesses Adicionais:**                  | Conectar-se com pessoas que podem ensinar algo novo, especialmente em culinária e viagens. |
+| **Frustrações:**                            | Dificuldade em encontrar um equilíbrio entre interesses profissionais e pessoais em uma única plataforma. |
+
+---
+
+| ![Lucas](caminho/para/imagem/lucas.jpg)     | **Lucas**                                | **Idade:** 30 anos                                              |
+|---------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
+| **Ocupação:**                               | Professor de História                                           |
+| **Funcionalidade:**                         | Uma funcionalidade que permita trocar conhecimentos sobre história e estratégias de ensino com outros usuários. |
+| **Motivações:**                             | Melhorar técnicas de ensino e tornar as aulas mais interativas e interessantes. |
+| **Interesses Adicionais:**                  | Jogos de tabuleiro, conectando-se com outros apaixonados por história e jogos. |
+| **Frustrações:**                            | Falta de ferramentas para combinar seus interesses em história e jogos com suas técnicas de ensino. |
+
+---
+
+| ![Miguel](caminho/para/imagem/miguel.jpg)   | **Miguel**                               | **Idade:** 14 anos                                              |
+|---------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
+| **Ocupação:**                               | Estudante                                                       |
+| **Funcionalidade:**                         | Uma funcionalidade que permita aprender a tocar guitarra e compartilhar experiências no skate com outros jovens. |
+| **Motivações:**                             | Melhorar habilidades musicais e de skate, conectando-se com outros jovens. |
+| **Interesses Adicionais:**                  | Aprender a fazer novos tipos de doces para compartilhar com a família e amigos. |
+| **Frustrações:**                            | Dificuldade em encontrar uma comunidade jovem com interesses semelhantes. |
+
+---
+
+| ![Luara](caminho/para/imagem/luara.jpg)     | **Luara**                                | **Idade:** 28 anos                                              |
+|---------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
+| **Ocupação:**                               | Analista de Sistemas                                            |
+| **Funcionalidade:**                         | Uma funcionalidade que permita trocar conhecimentos sobre pintura, corrida e piano com outros usuários. |
+| **Motivações:**                             | Melhorar habilidades nessas áreas e encontrar uma comunidade de interesses semelhantes. |
+| **Interesses Adicionais:**                  | Integrar hobbies criativos à vida profissional e pessoal.        |
+| **Frustrações:**                            | Dificuldade em equilibrar trabalho com hobbies e encontrar uma comunidade para compartilhar dicas. |
+
+---
+
+| ![Administrador](caminho/para/imagem/admin.jpg) | **Administrador da Aplicação**           |                                                                 |
+|-------------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
+| **Funcionalidade:**                             | Efetuar alteração das permissões das contas dos usuários.        |
+| **Motivações:**                                 | Permitir que os usuários administrem suas próprias contas de maneira eficiente. |
+| **Frustrações:**                                | Restrições no controle administrativo das funcionalidades dos usuários. |
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
