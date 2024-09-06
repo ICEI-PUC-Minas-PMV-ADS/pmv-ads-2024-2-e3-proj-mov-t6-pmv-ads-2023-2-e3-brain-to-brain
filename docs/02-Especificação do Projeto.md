@@ -8,14 +8,112 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-| Persona | Sexo | Gênero | Idade | Estado cívil | Tem filhos? | Profissão | Renda | Escolaridade | Residente | Hobbies |
-|---------|------|--------|-------|--------------|-------------|-----------|-------|--------------|-----------|---------|
-|Gabriel|Masculino|Cisgênero|35 anos|Casado|Sim|Policial militar|<= 3 mil|Graduação|Vitória da Conquista - BA|Jogar boliche, tocar violão e assistir filmes de CSI|
-|Julia|Feminino|Cisgênero|17 anos|Solteira|Não|Estudante|n/a|Ensino médio incompleto|São Caetano do Sul - SP|Assistir videos curtos de maquiagem, sair com os amigos e andar de bicicleta|
-|Ivo|Masculino|Não binário|45 anos|Divorciado|Não|Gerente de Marketing|<= 10 mil|Pós graduação|Cuiaba - MT|Viajar, cozinhar e ler livros de negócios|
-|Lucas|Masculino|Transgênero|26 anos|Casado|Sim|Professor de história|<= 3 mil|Mestrado|Belo Horizonte - MG|Jogar jogos de tabuleiro, estar em família e assistir corridas de carro|
-|Miguel|Masculino|Cisgênero|14 anos|Solteiro|Não|Estudante|n/a|Ensino fundamental incompleto|Rio Branco - AC|Andar de skate, tocar guitarra e fazer doces|
-|Luara|Feminino|Transgênero|28 anos|Solteira|Sim|Analista de Sistemas|<= 6 mil|Graduação|Fortaleza - CE|Pintura, Corrida e Tocar piano|
+### Persona 1: Gabriel
+
+| **Atributo**        | **Informação**                                    |
+|---------------------|---------------------------------------------------|
+| **Nome**            | Gabriel                                           |
+| **Sexo**            | Masculino                                         |
+| **Gênero**          | Cisgênero                                         |
+| **Idade**           | 35 anos                                           |
+| **Estado civil**    | Casado                                            |
+| **Tem filhos?**     | Sim                                               |
+| **Profissão**       | Policial militar                                  |
+| **Renda**           | <= 3 mil                                          |
+| **Escolaridade**    | Graduação                                         |
+| **Residente**       | Vitória da Conquista - BA                         |
+| **Hobbies**         | Jogar boliche, tocar violão e assistir filmes de CSI |
+
+---
+
+### Persona 2: Julia
+
+| **Atributo**        | **Informação**                                    |
+|---------------------|---------------------------------------------------|
+| **Nome**            | Julia                                             |
+| **Sexo**            | Feminino                                          |
+| **Gênero**          | Cisgênero                                         |
+| **Idade**           | 17 anos                                           |
+| **Estado civil**    | Solteira                                          |
+| **Tem filhos?**     | Não                                               |
+| **Profissão**       | Estudante                                         |
+| **Renda**           | n/a                                               |
+| **Escolaridade**    | Ensino médio incompleto                           |
+| **Residente**       | São Caetano do Sul - SP                           |
+| **Hobbies**         | Assistir vídeos curtos de maquiagem, sair com amigos e andar de bicicleta |
+
+---
+
+### Persona 3: Ivo
+
+| **Atributo**        | **Informação**                                    |
+|---------------------|---------------------------------------------------|
+| **Nome**            | Ivo                                               |
+| **Sexo**            | Masculino                                         |
+| **Gênero**          | Não binário                                       |
+| **Idade**           | 45 anos                                           |
+| **Estado civil**    | Divorciado                                        |
+| **Tem filhos?**     | Não                                               |
+| **Profissão**       | Gerente de Marketing                              |
+| **Renda**           | <= 10 mil                                         |
+| **Escolaridade**    | Pós-graduação                                     |
+| **Residente**       | Cuiabá - MT                                       |
+| **Hobbies**         | Viajar, cozinhar e ler livros de negócios         |
+
+---
+
+### Persona 4: Lucas
+
+| **Atributo**        | **Informação**                                    |
+|---------------------|---------------------------------------------------|
+| **Nome**            | Lucas                                             |
+| **Sexo**            | Masculino                                         |
+| **Gênero**          | Transgênero                                       |
+| **Idade**           | 26 anos                                           |
+| **Estado civil**    | Casado                                            |
+| **Tem filhos?**     | Sim                                               |
+| **Profissão**       | Professor de história                             |
+| **Renda**           | <= 3 mil                                          |
+| **Escolaridade**    | Mestrado                                          |
+| **Residente**       | Belo Horizonte - MG                               |
+| **Hobbies**         | Jogar jogos de tabuleiro, estar em família e assistir corridas de carro |
+
+---
+
+### Persona 5: Miguel
+
+| **Atributo**        | **Informação**                                    |
+|---------------------|---------------------------------------------------|
+| **Nome**            | Miguel                                            |
+| **Sexo**            | Masculino                                         |
+| **Gênero**          | Cisgênero                                         |
+| **Idade**           | 14 anos                                           |
+| **Estado civil**    | Solteiro                                          |
+| **Tem filhos?**     | Não                                               |
+| **Profissão**       | Estudante                                         |
+| **Renda**           | n/a                                               |
+| **Escolaridade**    | Ensino fundamental incompleto                     |
+| **Residente**       | Rio Branco - AC                                   |
+| **Hobbies**         | Andar de skate, tocar guitarra e fazer doces      |
+
+---
+
+### Persona 6: Luara
+
+| **Atributo**        | **Informação**                                    |
+|---------------------|---------------------------------------------------|
+| **Nome**            | Luara                                             |
+| **Sexo**            | Feminino                                          |
+| **Gênero**          | Transgênero                                       |
+| **Idade**           | 28 anos                                           |
+| **Estado civil**    | Solteira                                          |
+| **Tem filhos?**     | Sim                                               |
+| **Profissão**       | Analista de Sistemas                              |
+| **Renda**           | <= 6 mil                                          |
+| **Escolaridade**    | Graduação                                         |
+| **Residente**       | Fortaleza - CE                                    |
+| **Hobbies**         | Pintura, Corrida e Tocar piano                    |
+
 
 
 
