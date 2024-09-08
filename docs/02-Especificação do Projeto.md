@@ -193,10 +193,10 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 ### Análise da Situação Atual
 
 Atualmente, o acesso ao conhecimento é desigual e muitas pessoas enfrentam dificuldades para obter informações e habilidades que possam ajudá-las a se desenvolver pessoal e profissionalmente. Os principais problemas incluem:
-  Desigualdade no Acesso à Educação: Muitos indivíduos, especialmente aqueles em condições socioeconômicas desfavoráveis, não têm acesso a recursos educacionais de qualidade. Isso gera uma lacuna significativa no aprendizado.
-  Falta de Espaços para Troca de Saberes: Mesmo com a tecnologia disponível, as plataformas existentes muitas vezes não oferecem um ambiente interativo onde os usuários possam compartilhar conhecimentos e experiências de maneira colaborativa.
-  Dificuldade de Atualização de Habilidades: O mercado de trabalho está em constante evolução, e muitos profissionais não conseguem acompanhar as mudanças devido à falta de recursos acessíveis para aprendizado contínuo.
-  Isolamento no Aprendizado: Muitas pessoas que buscam conhecimento autodidata não encontram comunidades ou redes onde possam trocar ideias e experiências, o que limita seu crescimento e inovação.
+- Desigualdade no Acesso à Educação: Muitos indivíduos, especialmente aqueles em condições socioeconômicas desfavoráveis, não têm acesso a recursos educacionais de qualidade. Isso gera uma lacuna significativa no aprendizado.
+- Falta de Espaços para Troca de Saberes: Mesmo com a tecnologia disponível, as plataformas existentes muitas vezes não oferecem um ambiente interativo onde os usuários possam compartilhar conhecimentos e experiências de maneira colaborativa.
+- Dificuldade de Atualização de Habilidades: O mercado de trabalho está em constante evolução, e muitos profissionais não conseguem acompanhar as mudanças devido à falta de recursos acessíveis para aprendizado contínuo.
+- Isolamento no Aprendizado: Muitas pessoas que buscam conhecimento autodidata não encontram comunidades ou redes onde possam trocar ideias e experiências, o que limita seu crescimento e inovação.
 
 ### Descrição Geral da Proposta
 
