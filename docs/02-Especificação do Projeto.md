@@ -192,23 +192,34 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Atualmente, o acesso ao conhecimento é desigual e muitas pessoas enfrentam dificuldades para obter informações e habilidades que possam ajudá-las a se desenvolver pessoal e profissionalmente. Os principais problemas incluem:
+Desigualdade no Acesso à Educação: Muitos indivíduos, especialmente aqueles em condições socioeconômicas desfavoráveis, não têm acesso a recursos educacionais de qualidade. Isso gera uma lacuna significativa no aprendizado.
+Falta de Espaços para Troca de Saberes: Mesmo com a tecnologia disponível, as plataformas existentes muitas vezes não oferecem um ambiente interativo onde os usuários possam compartilhar conhecimentos e experiências de maneira colaborativa.
+Dificuldade de Atualização de Habilidades: O mercado de trabalho está em constante evolução, e muitos profissionais não conseguem acompanhar as mudanças devido à falta de recursos acessíveis para aprendizado contínuo.
+Isolamento no Aprendizado: Muitas pessoas que buscam conhecimento autodidata não encontram comunidades ou redes onde possam trocar ideias e experiências, o que limita seu crescimento e inovação.
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+A proposta é desenvolver um aplicativo mobile que funcione como uma plataforma colaborativa para compartilhamento e aquisição de conhecimento. O aplicativo permitirá que os usuários se conectem, troquem experiências e aprendam uns com os outros, promovendo a inclusão e o aprendizado contínuo.
 
-### Processo 1 – NOME DO PROCESSO
+### Limites da Proposta
+O aplicativo se concentrará em áreas de conhecimento específicas, com um foco inicial em temas populares, como habilidades profissionais, desenvolvimento pessoal e hobbies.
+A plataforma dependerá de uma comunidade ativa para funcionar de maneira eficaz, o que requer esforços de marketing e engajamento.
+### Oportunidades de Melhoria
+A proposta tem o potencial de criar um ambiente dinâmico onde os usuários possam aprender de forma mais efetiva, melhorando as habilidades e contribuindo para uma sociedade mais capacitada.
+Através da implementação de recursos de gamificação e feedback, o aplicativo pode incentivar o aprendizado contínuo e a participação ativa.
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+### Processo 1 – Compartilhamento de Conhecimento
 
-![Processo 1](img/02-bpmn-proc1.png)
+#### Oportunidades de Melhoria
 
-### Processo 2 – NOME DO PROCESSO
+O processo de compartilhamento de conhecimento pode ser aprimorado através da criação de categorias específicas e tags que facilitem a busca por tópicos de interesse. Além disso, implementar um sistema de avaliação e feedback permitirá que os usuários melhorem suas experiências de aprendizado.
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
+### Processo 2 – Avaliação de Experiências
 
-![Processo 2](img/02-bpmn-proc2.png)
+#### Oportunidades de Melhoria
+
+A avaliação de experiências pode ser otimizada ao permitir que os usuários deixem feedback detalhado sobre as interações. Isso não apenas melhorará a qualidade do conteúdo, mas também incentivará uma cultura de aprendizado contínuo.
 
 ## Indicadores de Desempenho
 
