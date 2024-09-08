@@ -11,7 +11,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 ## Integrantes
 
 * Nome completo do aluno 1
-* Nome completo do aluno 2
+* Lucas Marinho Ribeiro Guimarães
 * Mariana Vieira Santos
 * Natan de Souza Carvalho
 * Robert Alexander Rodrigues
