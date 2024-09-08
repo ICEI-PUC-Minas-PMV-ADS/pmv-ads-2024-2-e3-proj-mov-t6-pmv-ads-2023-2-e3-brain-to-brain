@@ -117,63 +117,178 @@ Este projeto visa atender à necessidade de uma plataforma que facilite o compar
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-| <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e3-proj-mov-t6-pmv-ads-2023-2-e3-brain-to-brain/main/docs/img/Gabriel.jpg" width="80">|**Gabriel**                              | **Idade:** 35 anos                                              |
-|---------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
-| **Ocupação:**                                           | Policial Militar                                                |
-| **Funcionalidade:**                                     | Quero um espaço que permita compartilhar e aprender sobre técnicas de segurança e investigação com outras pessoas. |
-| **Motivações:**                                         | Aumentar sua rede de conhecimentos práticos e teóricos na área de segurança. |
-| **Interesses Adicionais:**                              | Música, troca de experiências sobre tocar violão.                |
-| **Frustrações:**                                        | Dificuldade em encontrar uma plataforma confiável para compartilhar e aprender sobre segurança de forma interativa. |
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e3-proj-mov-t6-pmv-ads-2023-2-e3-brain-to-brain/main/docs/img/Gabriel.jpg" width="80"></td>
+    <td><strong>Gabriel</strong></td>
+    <td><strong>Idade:</strong> 35 anos</td>
+  </tr>
+  <tr>
+    <td><strong>Ocupação:</strong></td>
+    <td colspan="2">Policial Militar</td>
+  </tr>
+  <tr>
+    <td><strong>Funcionalidade:</strong></td>
+    <td colspan="2">Quero um espaço que permita compartilhar e aprender sobre técnicas de segurança e investigação com outras pessoas.</td>
+  </tr>
+  <tr>
+    <td><strong>Motivações:</strong></td>
+    <td colspan="2">Aumentar sua rede de conhecimentos práticos e teóricos na área de segurança.</td>
+  </tr>
+  <tr>
+    <td><strong>Interesses Adicionais:</strong></td>
+    <td colspan="2">Música, troca de experiências sobre tocar violão.</td>
+  </tr>
+  <tr>
+    <td><strong>Frustrações:</strong></td>
+    <td colspan="2">Dificuldade em encontrar uma plataforma confiável para compartilhar e aprender sobre segurança de forma interativa.</td>
+  </tr>
+</table>
 
 ---
-
-| <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e3-proj-mov-t6-pmv-ads-2023-2-e3-brain-to-brain/main/docs/img/Julia.jpg" width="80">   | **Julia**                                | **Idade:** 17 anos                                              |
-|---------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
-| **Ocupação:**                                           | Estudante                                                       |
-| **Funcionalidade:**                                     | Uma funcionalidade que permita trocar dicas de maquiagem e estilo com outras pessoas. |
-| **Motivações:**                                         | Se expressar melhor através da maquiagem e moda.                |
-| **Interesses Adicionais:**                              | Descobrir novas tendências e fazer novas amizades com interesses semelhantes. |
-| **Frustrações:**                                        | Falta de conexão com outras pessoas que compartilham os mesmos interesses em moda. |
-
----
-
-| <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e3-proj-mov-t6-pmv-ads-2023-2-e3-brain-to-brain/main/docs/img/Ivo.jpg" width="80">     | **Ivo**                                  | **Idade:** 40 anos                                              |
-|---------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
-| **Ocupação:**                                           | Gerente de Marketing                                             |
-| **Funcionalidade:**                                     | Quero poder compartilhar conhecimentos de marketing e aprender sobre culinária e viagens. |
-| **Motivações:**                                         | Enriquecer habilidades profissionais e explorar novas paixões pessoais. |
-| **Interesses Adicionais:**                              | Conectar-se com pessoas que podem ensinar algo novo, especialmente em culinária e viagens. |
-| **Frustrações:**                                        | Dificuldade em encontrar um equilíbrio entre interesses profissionais e pessoais em uma única plataforma. |
-
----
-
-| <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e3-proj-mov-t6-pmv-ads-2023-2-e3-brain-to-brain/main/docs/img/Lucas.jpg" width="80">   | **Lucas**                                | **Idade:** 30 anos                                              |
-|---------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
-| **Ocupação:**                                           | Professor de História                                           |
-| **Funcionalidade:**                                     | Gostaria de ter uma funcionalide que permita trocar conhecimentos sobre história e estratégias de ensino com outros usuários. |
-| **Motivações:**                                         | Melhorar técnicas de ensino e tornar as aulas mais interativas e interessantes. |
-| **Interesses Adicionais:**                              | Jogos de tabuleiro, conectando-se com outros apaixonados por história e jogos. |
-| **Frustrações:**                                        | Falta de ferramentas para combinar seus interesses em história e jogos com suas técnicas de ensino. |
-
----
-
-| <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e3-proj-mov-t6-pmv-ads-2023-2-e3-brain-to-brain/main/docs/img/Miguel.jpg" width="80">  | **Miguel**                               | **Idade:** 14 anos                                              |
-|---------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
-| **Ocupação:**                                           | Estudante                                                       |
-| **Funcionalidade:**                                     | Uma funcionalidade que permita aprender a tocar guitarra e compartilhar experiências no skate com outros jovens. |
-| **Motivações:**                                         | Melhorar habilidades musicais e de skate, conectando-se com outros jovens. |
-| **Interesses Adicionais:**                              | Aprender a fazer novos tipos de doces para compartilhar com a família e amigos. |
-| **Frustrações:**                                        | Dificuldade em encontrar uma comunidade jovem com interesses semelhantes. |
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e3-proj-mov-t6-pmv-ads-2023-2-e3-brain-to-brain/main/docs/img/Julia.jpg" width="80"></td>
+    <td><strong>Julia</strong></td>
+    <td><strong>Idade:</strong> 17 anos</td>
+  </tr>
+  <tr>
+    <td><strong>Ocupação:</strong></td>
+    <td colspan="2">Estudante</td>
+  </tr>
+  <tr>
+    <td><strong>Funcionalidade:</strong></td>
+    <td colspan="2">Uma funcionalidade que permita trocar dicas de maquiagem e estilo com outras pessoas.</td>
+  </tr>
+  <tr>
+    <td><strong>Motivações:</strong></td>
+    <td colspan="2">Se expressar melhor através da maquiagem e moda.</td>
+  </tr>
+  <tr>
+    <td><strong>Interesses Adicionais:</strong></td>
+    <td colspan="2">Descobrir novas tendências e fazer novas amizades com interesses semelhantes.</td>
+  </tr>
+  <tr>
+    <td><strong>Frustrações:</strong></td>
+    <td colspan="2">Falta de conexão com outras pessoas que compartilham os mesmos interesses em moda.</td>
+  </tr>
+</table>
 
 ---
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e3-proj-mov-t6-pmv-ads-2023-2-e3-brain-to-brain/main/docs/img/Ivo.jpg" width="80"></td>
+    <td><strong>Ivo</strong></td>
+    <td><strong>Idade:</strong> 40 anos</td>
+  </tr>
+  <tr>
+    <td><strong>Ocupação:</strong></td>
+    <td colspan="2">Gerente de Marketing</td>
+  </tr>
+  <tr>
+    <td><strong>Funcionalidade:</strong></td>
+    <td colspan="2">Quero poder compartilhar conhecimentos de marketing e aprender sobre culinária e viagens.</td>
+  </tr>
+  <tr>
+    <td><strong>Motivações:</strong></td>
+    <td colspan="2">Enriquecer habilidades profissionais e explorar novas paixões pessoais.</td>
+  </tr>
+  <tr>
+    <td><strong>Interesses Adicionais:</strong></td>
+    <td colspan="2">Conectar-se com pessoas que podem ensinar algo novo, especialmente em culinária e viagens.</td>
+  </tr>
+  <tr>
+    <td><strong>Frustrações:</strong></td>
+    <td colspan="2">Dificuldade em encontrar um equilíbrio entre interesses profissionais e pessoais em uma única plataforma.</td>
+  </tr>
+</table>
 
-| <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e3-proj-mov-t6-pmv-ads-2023-2-e3-brain-to-brain/main/docs/img/Luara.jpg" width="80">   | **Luara**                                | **Idade:** 28 anos                                              |
-|---------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
-| **Ocupação:**                                           | Analista de Sistemas                                            |
-| **Funcionalidade:**                                     | Um app que permita trocar conhecimentos sobre pintura, corrida e piano com outros usuários. |
-| **Motivações:**                                         | Melhorar habilidades nessas áreas e encontrar uma comunidade de interesses semelhantes. |
-| **Interesses Adicionais:**                              | Integrar hobbies criativos à vida profissional e pessoal.        |
-| **Frustrações:**                                        | Dificuldade em equilibrar trabalho com hobbies e encontrar uma comunidade para compartilhar dicas. |
+---
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e3-proj-mov-t6-pmv-ads-2023-2-e3-brain-to-brain/main/docs/img/Lucas.jpg" width="80"></td>
+    <td><strong>Lucas</strong></td>
+    <td><strong>Idade:</strong> 30 anos</td>
+  </tr>
+  <tr>
+    <td><strong>Ocupação:</strong></td>
+    <td colspan="2">Professor de História</td>
+  </tr>
+  <tr>
+    <td><strong>Funcionalidade:</strong></td>
+    <td colspan="2">Gostaria de ter uma funcionalidade que permita trocar conhecimentos sobre história e estratégias de ensino com outros usuários.</td>
+  </tr>
+  <tr>
+    <td><strong>Motivações:</strong></td>
+    <td colspan="2">Melhorar técnicas de ensino e tornar as aulas mais interativas e interessantes.</td>
+  </tr>
+  <tr>
+    <td><strong>Interesses Adicionais:</strong></td>
+    <td colspan="2">Jogos de tabuleiro, conectando-se com outros apaixonados por história e jogos.</td>
+  </tr>
+  <tr>
+    <td><strong>Frustrações:</strong></td>
+    <td colspan="2">Falta de ferramentas para combinar seus interesses em história e jogos com suas técnicas de ensino.</td>
+  </tr>
+</table>
+
+---
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e3-proj-mov-t6-pmv-ads-2023-2-e3-brain-to-brain/main/docs/img/Miguel.jpg" width="80"></td>
+    <td><strong>Miguel</strong></td>
+    <td><strong>Idade:</strong> 14 anos</td>
+  </tr>
+  <tr>
+    <td><strong>Ocupação:</strong></td>
+    <td colspan="2">Estudante</td>
+  </tr>
+  <tr>
+    <td><strong>Funcionalidade:</strong></td>
+    <td colspan="2">Uma funcionalidade que permita aprender a tocar guitarra e compartilhar experiências no skate com outros jovens.</td>
+  </tr>
+  <tr>
+    <td><strong>Motivações:</strong></td>
+    <td colspan="2">Melhorar habilidades musicais e de skate, conectando-se com outros jovens.</td>
+  </tr>
+  <tr>
+    <td><strong>Interesses Adicionais:</strong></td>
+    <td colspan="2">Aprender a fazer novos tipos de doces para compartilhar com a família e amigos.</td>
+  </tr>
+  <tr>
+    <td><strong>Frustrações:</strong></td>
+    <td colspan="2">Dificuldade em encontrar uma comunidade jovem com interesses semelhantes.</td>
+  </tr>
+</table>
+
+---
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e3-proj-mov-t6-pmv-ads-2023-2-e3-brain-to-brain/main/docs/img/Luara.jpg" width="80"></td>
+    <td><strong>Luara</strong></td>
+    <td><strong>Idade:</strong> 28 anos</td>
+  </tr>
+  <tr>
+    <td><strong>Ocupação:</strong></td>
+    <td colspan="2">Analista de Sistemas</td>
+  </tr>
+  <tr>
+    <td><strong>Funcionalidade:</strong></td>
+    <td colspan="2">Um app que permita trocar conhecimentos sobre pintura, corrida e piano com outros usuários.</td>
+  </tr>
+  <tr>
+    <td><strong>Motivações:</strong></td>
+    <td colspan="2">Melhorar habilidades nessas áreas e encontrar uma comunidade de interesses semelhantes.</td>
+  </tr>
+  <tr>
+    <td><strong>Interesses Adicionais:</strong></td>
+    <td colspan="2">Integrar hobbies criativos à vida profissional e pessoal.</td>
+  </tr>
+  <tr>
+    <td><strong>Frustrações:</strong></td>
+    <td colspan="2">Dificuldade em equilibrar trabalho com hobbies e encontrar uma comunidade para compartilhar dicas.</td>
+  </tr>
+</table>
 
 ---
 
