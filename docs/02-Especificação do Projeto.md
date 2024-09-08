@@ -325,7 +325,7 @@ O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utiliz
 
 As tarefas serão organizadas no painel de project do GitHub, utilizando a metodologia Kanban para facilitar o fluxo de trabalho. As atividades serão distribuídas de acordo com a necessidade de cada fase do projeto, permitindo que todos os membros da equipe possam contribuir tanto no desenvolvimento front-end quanto no back-end, além de auxiliar na documentação. O backlog e o progresso das tarefas podem ser visualizados diretamente no painel Kanban, assegurando que o acompanhamento e as atualizações sejam realizados de forma transparente e eficiente.
 
-![Simple Project Timeline](img/02-project-timeline.png)
+![Simple Project Timeline](img/cronograma.png)
 
 ## Gestão de Orçamento
 
