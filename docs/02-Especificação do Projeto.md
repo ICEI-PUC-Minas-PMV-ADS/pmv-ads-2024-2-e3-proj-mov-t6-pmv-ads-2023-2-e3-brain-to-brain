@@ -117,7 +117,7 @@ Este projeto visa atender à necessidade de uma plataforma que facilite o compar
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-| <img src="">|**Gabriel**                              | **Idade:** 35 anos                                              |
+| <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e3-proj-mov-t6-pmv-ads-2023-2-e3-brain-to-brain/main/docs/img/Gabriel.jpg" width="48">|**Gabriel**                              | **Idade:** 35 anos                                              |
 |---------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
 | **Ocupação:**                                           | Policial Militar                                                |
 | **Funcionalidade:**                                     | Quero um espaço que permita compartilhar e aprender sobre técnicas de segurança e investigação com outras pessoas. |
@@ -127,7 +127,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ---
 
-| <img src="" width="100">   | **Julia**                                | **Idade:** 17 anos                                              |
+| <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e3-proj-mov-t6-pmv-ads-2023-2-e3-brain-to-brain/main/docs/img/Gabriel.jpg" width="48">   | **Julia**                                | **Idade:** 17 anos                                              |
 |---------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
 | **Ocupação:**                                           | Estudante                                                       |
 | **Funcionalidade:**                                     | Uma funcionalidade que permita trocar dicas de maquiagem e estilo com outras pessoas. |
@@ -137,7 +137,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ---
 
-| <img src="" width="100">     | **Ivo**                                  | **Idade:** 40 anos                                              |
+| <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e3-proj-mov-t6-pmv-ads-2023-2-e3-brain-to-brain/main/docs/img/Gabriel.jpg" width="48">     | **Ivo**                                  | **Idade:** 40 anos                                              |
 |---------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
 | **Ocupação:**                                           | Gerente de Marketing                                             |
 | **Funcionalidade:**                                     | Quero poder compartilhar conhecimentos de marketing e aprender sobre culinária e viagens. |
@@ -147,7 +147,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ---
 
-| <img src="" width="100">   | **Lucas**                                | **Idade:** 30 anos                                              |
+| <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e3-proj-mov-t6-pmv-ads-2023-2-e3-brain-to-brain/main/docs/img/Gabriel.jpg" width="48">   | **Lucas**                                | **Idade:** 30 anos                                              |
 |---------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
 | **Ocupação:**                                           | Professor de História                                           |
 | **Funcionalidade:**                                     | Gostaria de ter uma funcionalide que permita trocar conhecimentos sobre história e estratégias de ensino com outros usuários. |
@@ -157,7 +157,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ---
 
-| <img src="" width="100">  | **Miguel**                               | **Idade:** 14 anos                                              |
+| <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e3-proj-mov-t6-pmv-ads-2023-2-e3-brain-to-brain/main/docs/img/Gabriel.jpg" width="48">  | **Miguel**                               | **Idade:** 14 anos                                              |
 |---------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
 | **Ocupação:**                                           | Estudante                                                       |
 | **Funcionalidade:**                                     | Uma funcionalidade que permita aprender a tocar guitarra e compartilhar experiências no skate com outros jovens. |
@@ -167,7 +167,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ---
 
-| <img src="" width="100">   | **Luara**                                | **Idade:** 28 anos                                              |
+| <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e3-proj-mov-t6-pmv-ads-2023-2-e3-brain-to-brain/main/docs/img/Gabriel.jpg" width="48">   | **Luara**                                | **Idade:** 28 anos                                              |
 |---------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
 | **Ocupação:**                                           | Analista de Sistemas                                            |
 | **Funcionalidade:**                                     | Um app que permita trocar conhecimentos sobre pintura, corrida e piano com outros usuários. |
@@ -177,7 +177,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ---
 
-| <img src="" width="100">   | **Administrador da Aplicação**           |                                                                 |
+| <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e3-proj-mov-t6-pmv-ads-2023-2-e3-brain-to-brain/main/docs/img/Gabriel.jpg" width="48">   | **Administrador da Aplicação**           |                                                                 |
 |---------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
 | **Funcionalidade:**                                     | Efetuar alteração das permissões das contas dos usuários.        |
 | **Motivações:**                                         | Permitir que os usuários administrem suas próprias contas de maneira eficiente. |
