@@ -444,6 +444,6 @@ As tarefas serão organizadas no painel de project do GitHub, utilizando a metod
 
 ## Gestão de Orçamento
 
-O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
+Com base no que é proposto no projeto do app mobile, abaixo mostrará uma tabela com estimativa de gastos nesse projeto
 
-![Orçamento](img/02-orcamento.png)
+![Orçamento](https://github.com/user-attachments/assets/34344e98-6279-41fe-b560-fd328bab3c3f)
