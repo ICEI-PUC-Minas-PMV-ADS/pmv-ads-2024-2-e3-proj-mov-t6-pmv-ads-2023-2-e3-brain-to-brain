@@ -273,11 +273,27 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 # Matriz de Rastreabilidade
 
-A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
+| ID Requisito | Descrição do Requisito                                                           | Casos de Uso                          | Testes                                    | Implementação                                  |
+|--------------|----------------------------------------------------------------------------------|---------------------------------------|-------------------------------------------|------------------------------------------------|
+| RF-001       | Permitir cadastro de usuários com informações pessoais e áreas de conhecimento   | CU-001: Cadastro de Usuário           | TC-001: Testar o cadastro com diferentes perfis | Módulo de Cadastro, Validação de Dados         |
+| RF-002       | Permitir criação e edição de perfis de usuários                                  | CU-002: Editar Perfil                 | TC-002: Verificar edição de perfis        | Módulo de Perfil, Banco de Dados               |
+| RF-003       | Permitir busca de temas ou áreas de conhecimento para usuários não cadastrados   | CU-003: Busca de Conhecimentos        | TC-003: Testar busca sem login            | Módulo de Busca, Interface Principal           |
+| RF-004       | Exibir lista de conhecimentos disponíveis com detalhes do provedor e formas de contato | CU-004: Exibir Lista de Conhecimentos | TC-004: Verificar exibição de detalhes    | Módulo de Listagem, Interface de Resultados    |
+| RF-005       | Permitir contato direto entre usuários e provedores via e-mail ou telefone       | CU-005: Contato com Provedor          | TC-005: Testar envio de e-mail e exibição de telefone | Módulo de Comunicação, Integração de Contato   |
+| RF-006       | Permitir filtragem de resultados de busca por área de conhecimento e disponibilidade | CU-006: Filtrar Resultados            | TC-006: Verificar filtros aplicados       | Módulo de Filtros, Otimização de Busca         |
+| RF-007       | Permitir avaliações e comentários de usuários sobre experiências de aprendizado  | CU-007: Avaliar Experiências          | TC-007: Testar submissão e exibição de avaliações | Módulo de Avaliação, Banco de Comentários      |
+| RF-008       | Enviar notificações por e-mail ou push sobre novos pedidos de conhecimento ou contatos recebidos | CU-008: Notificações                 | TC-008: Testar envio de notificações      | Módulo de Notificações, Serviços de Push       |
+| RNF-001      | O sistema deve ser intuitivo e fácil de navegar                                  | CU-009: Navegação pela Plataforma     | TC-009: Avaliação de usabilidade          | Design de Interface, Navegação                 |
+| RNF-002      | O sistema deve responder a solicitações de busca e filtro em menos de 5 segundos | CU-003: Busca de Conhecimentos        | TC-010: Medir o tempo de resposta         | Módulo de Busca, Otimização de Consultas       |
+| RNF-003      | O sistema deve ser escalável para suportar aumento de usuários e acessos simultâneos | CU-010: Escalabilidade do Sistema    | TC-011: Testes de carga e stress          | Arquitetura de Escalabilidade, Cloud Setup     |
+| RNF-004      | A aplicação deve ser compatível com os principais sistemas operacionais do mercado | CU-011: Compatibilidade              | TC-012: Testar em diferentes SOs          | Cross-Platform Development                     |
+| RNF-005      | O sistema deve implementar criptografia de dados para segurança e privacidade dos usuários | CU-012: Segurança de Dados          | TC-013: Verificar criptografia de dados sensíveis | Módulo de Segurança, Criptografia de Dados     |
+| RNF-006      | O sistema deve ser desenvolvido de forma modular para fácil manutenção e atualização | CU-013: Manutenção e Atualização     | TC-014: Testar atualização de módulos     | Arquitetura Modular, Design de Código          |
+| RE-01        | O projeto deve ser entregue até 23/06/2024                                       | -                                     | -                                         | Planejamento de Entregas                       |
+| RE-02        | Uso exclusivo de tecnologias do framework selecionado                            | -                                     | -                                         | Aderência ao Framework                         |
+| RE-03        | Proibição de subcontratação de terceiros                                         | -                                     | -                                         | Controle Interno                               |
+| RE-04        | Desenvolvimento exclusivo para dispositivos móveis                               | CU-014: Plataforma Móvel              | TC-015: Testar funcionalidades em dispositivos móveis | Mobile-Only Development                       |
 
-A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
-
-![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
 
 
 
