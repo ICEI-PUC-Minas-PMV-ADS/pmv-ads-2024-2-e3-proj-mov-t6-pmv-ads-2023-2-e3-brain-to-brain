@@ -193,19 +193,22 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 ### Análise da Situação Atual
 
 Atualmente, o acesso ao conhecimento é desigual e muitas pessoas enfrentam dificuldades para obter informações e habilidades que possam ajudá-las a se desenvolver pessoal e profissionalmente. Os principais problemas incluem:
-Desigualdade no Acesso à Educação: Muitos indivíduos, especialmente aqueles em condições socioeconômicas desfavoráveis, não têm acesso a recursos educacionais de qualidade. Isso gera uma lacuna significativa no aprendizado.
-Falta de Espaços para Troca de Saberes: Mesmo com a tecnologia disponível, as plataformas existentes muitas vezes não oferecem um ambiente interativo onde os usuários possam compartilhar conhecimentos e experiências de maneira colaborativa.
-Dificuldade de Atualização de Habilidades: O mercado de trabalho está em constante evolução, e muitos profissionais não conseguem acompanhar as mudanças devido à falta de recursos acessíveis para aprendizado contínuo.
-Isolamento no Aprendizado: Muitas pessoas que buscam conhecimento autodidata não encontram comunidades ou redes onde possam trocar ideias e experiências, o que limita seu crescimento e inovação.
+  Desigualdade no Acesso à Educação: Muitos indivíduos, especialmente aqueles em condições socioeconômicas desfavoráveis, não têm acesso a recursos educacionais de qualidade. Isso gera uma lacuna significativa no aprendizado.
+  Falta de Espaços para Troca de Saberes: Mesmo com a tecnologia disponível, as plataformas existentes muitas vezes não oferecem um ambiente interativo onde os usuários possam compartilhar conhecimentos e experiências de maneira colaborativa.
+  Dificuldade de Atualização de Habilidades: O mercado de trabalho está em constante evolução, e muitos profissionais não conseguem acompanhar as mudanças devido à falta de recursos acessíveis para aprendizado contínuo.
+  Isolamento no Aprendizado: Muitas pessoas que buscam conhecimento autodidata não encontram comunidades ou redes onde possam trocar ideias e experiências, o que limita seu crescimento e inovação.
 
 ### Descrição Geral da Proposta
 
 A proposta é desenvolver um aplicativo mobile que funcione como uma plataforma colaborativa para compartilhamento e aquisição de conhecimento. O aplicativo permitirá que os usuários se conectem, troquem experiências e aprendam uns com os outros, promovendo a inclusão e o aprendizado contínuo.
 
 ### Limites da Proposta
+
 O aplicativo se concentrará em áreas de conhecimento específicas, com um foco inicial em temas populares, como habilidades profissionais, desenvolvimento pessoal e hobbies.
 A plataforma dependerá de uma comunidade ativa para funcionar de maneira eficaz, o que requer esforços de marketing e engajamento.
+
 ### Oportunidades de Melhoria
+
 A proposta tem o potencial de criar um ambiente dinâmico onde os usuários possam aprender de forma mais efetiva, melhorando as habilidades e contribuindo para uma sociedade mais capacitada.
 Através da implementação de recursos de gamificação e feedback, o aplicativo pode incentivar o aprendizado contínuo e a participação ativa.
 
