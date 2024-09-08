@@ -1,6 +1,6 @@
 ### Guilherme
 <video width="600" controls>
-  <source src="/videos/2024-09-08 16-16-05.mkv">
+  <source src="/videos/Guilherme.mkv">
 </video>
 
 
@@ -9,6 +9,9 @@
 ### Mariana Vieira Santos
 
 ### Natan de Souza Carvalho
+<video width="600" controls>
+  <source src="/videos/Natan.mp4">
+</video>
 
 ### Raphael Leite
 
