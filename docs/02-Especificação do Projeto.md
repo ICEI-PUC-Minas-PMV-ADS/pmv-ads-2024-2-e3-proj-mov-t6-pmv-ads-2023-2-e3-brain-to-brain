@@ -245,8 +245,7 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 | RNF-001| O sistema deve ser intuitivo e fácil de navegar, proporcionando uma boa experiência do usuário| ALTA       |
 | RNF-002| O sistema deve responder a solicitações de busca e filtro em menos de 5 segundos | ALTA       |
 | RNF-003| O sistema deve ser escalável para suportar aumento de usuários e acessos simultâneos | ALTA       |
-| RNF-004| 	A aplicação deve ser compatível com os principais sistemas operacionais do mercado. | ALTA      |
-
+| RNF-004| A aplicação deve ser compatível com os principais sistemas operacionais do mercado. | ALTA      |
 | RNF-005| O sistema deve implementar criptografia de dados, garantindo segurança e privacidade dos usuários| MÉDIA       |
 | RNF-006| O sistema deve ser desenvolvido de forma modular, permitindo fácil manutenção e atualização | MÉDIA      |
 
