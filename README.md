@@ -1,19 +1,20 @@
-# Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio
+# Projeto Brain to Brain - Solução mobile para compartilhamento de conhecimentos a partir de interações entre usuários
 
 `Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
 `3° Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto trata-se de uma solução planejada para dispositivos mobiles, onde a partir de um app gamificado, os usuários terão a oportunidade de interação uns com os outros, promovendo assim a conexão em rede para compartilhamento de interesses em comum.
 
 ## Integrantes
 
-* Nome completo do aluno 1
+* Guilherme Brito
 * Lucas Marinho Ribeiro Guimarães
 * Mariana Vieira Santos
 * Natan de Souza Carvalho
+* Raphael Leite
 * Robert Alexander Rodrigues
 
 ## Orientador
