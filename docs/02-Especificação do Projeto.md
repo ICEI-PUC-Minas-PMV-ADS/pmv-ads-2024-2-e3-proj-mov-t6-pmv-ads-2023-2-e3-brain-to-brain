@@ -127,7 +127,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ---
 
-| <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e3-proj-mov-t6-pmv-ads-2023-2-e3-brain-to-brain/main/docs/img/Gabriel.jpg" width="48">   | **Julia**                                | **Idade:** 17 anos                                              |
+| <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e3-proj-mov-t6-pmv-ads-2023-2-e3-brain-to-brain/main/docs/img/Julia.jpg" width="48">   | **Julia**                                | **Idade:** 17 anos                                              |
 |---------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
 | **Ocupação:**                                           | Estudante                                                       |
 | **Funcionalidade:**                                     | Uma funcionalidade que permita trocar dicas de maquiagem e estilo com outras pessoas. |
@@ -137,7 +137,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ---
 
-| <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e3-proj-mov-t6-pmv-ads-2023-2-e3-brain-to-brain/main/docs/img/Gabriel.jpg" width="48">     | **Ivo**                                  | **Idade:** 40 anos                                              |
+| <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e3-proj-mov-t6-pmv-ads-2023-2-e3-brain-to-brain/main/docs/img/Ivo.jpg" width="48">     | **Ivo**                                  | **Idade:** 40 anos                                              |
 |---------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------|
 | **Ocupação:**                                           | Gerente de Marketing                                             |
 | **Funcionalidade:**                                     | Quero poder compartilhar conhecimentos de marketing e aprender sobre culinária e viagens. |
